@@ -1,4 +1,4 @@
 # Menu-Management-System
-# To run
-# Delete System folder 
+## To run
+### Delete System folder 
 # In Command Prompt
